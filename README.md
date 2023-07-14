@@ -1,5 +1,5 @@
 # SQL-Hands-On-Projects
-
+Tools- MySql Database
 This is a Zomato like Case study.Where multiple tables such as goldusers_signup,  product,sales,users are created containing the users information such as customers id,their gold membership and product information - product purchase date, product name , product price etc. Further customer purchasing behaviour , maximum products purchased , Points collected by customers are analyzed using advanced SQL queries.
 
 Queries Written for analysing the following questions:
